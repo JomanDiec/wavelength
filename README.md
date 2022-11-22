@@ -1,6 +1,7 @@
 # Wavelength
 
-Wavelength is a game app developed by Popcorn Robot team
+Wavelength is a game app developed by Popcorn Robot team.
+
 Groups of players connect to a hosted site, create a username, then play a party game where teams must make a guess on a spectrum based on clues given by another player.
 
 ## Setup Remote Container (Docker)
