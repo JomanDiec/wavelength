@@ -1,8 +1,9 @@
 # Wavelength
 
-Wavelegnth is a project developed by Popcorn Robot team
+Wavelength is a game app developed by Popcorn Robot team
+Groups of players connect to a hosted site, create a username, then play a party game where teams must make a guess on a spectrum based on clues given by another player.
 
-## Remote Container (Docker)
+## Setup Remote Container (Docker)
 
 The easiest way to get this project running with zero setup time with a local machine is to use [VS Code's Docker Remote Containers](https://code.visualstudio.com/docs/remote/remote-overview). This is essentially creating a Docker container that can be version ocntrolled inside GitHub and will allow you to SSH into that container to develop in.
 
